@@ -1,4 +1,4 @@
-# Mobile Games A/B Testing- Cookie Cats
+# COOKIE CATS: A/B TESTING FOR MOBILE GAME
 ## Introduction
 This project is based on a mini project from Datacamp and aims to analyze an A/B test conducted on the mobile puzzle game, Cookie Cats, developed by Tactile Entertainment. The goal of the A/B test was to determine the impact of moving the first gate in Cookie Cats from level 30 to level 40 on player retention.
 
